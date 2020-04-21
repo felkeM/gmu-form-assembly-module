@@ -1,0 +1,4 @@
+name = "GMU Request Information UG Block"
+description = "Provides the Request Information UG Block."
+package = "GMU"
+core = 7.x
